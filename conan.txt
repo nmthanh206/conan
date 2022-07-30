@@ -10,7 +10,7 @@ https://e-5.mzzcloud.life/_v8/bc6ae85e8a70a86e065ecf28f7bb73dc4ada79ff928000c19d
 
 
 #EXTINF:-1, Vebotv
-https://livestream-2.socialstreaming.tv/live/62cd5e002a8404001d7d33f1/62cd5e002a8404001d7d33f1.m3u8
+https://179386814.global.cdnfastest.com//live/183945d1d7223f3493d81064fefb1004018/chunklist.m3u8|Referer=https://vebotv.site/
 #EXTINF:-1, Vebotv2
 https://livestream.socialstreaming.tv/live/62ca97cb9e83dd001d108a13/62ca97cb9e83dd001d108a13.m3u8
 

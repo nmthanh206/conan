@@ -1,6 +1,6 @@
 #EXTM3U 
 #EXTINF:-1, Conan
-https://vd297.mycdn.me/?expires=1659015361887&srcIp=115.76.106.110&pr=10&srcAg=CHROME&ms=185.226.53.6&type=1&sig=b_IGkZ7WNyk&ct=4&urls=185.226.52.5&clientType=0&id=1497189779999&bytes=1284708-2682748
+https://mc.yandex.ru/watch/64815175?page-url=https%3A%2F%2Fausoafab.net%2F4%2F3766233%2F%3Fvar%3Dembedmb&page-ref=https%3A%2F%2Fembedsb.com%2Fe%2Fivodnjvy0y22.html&charset=utf-8&ut=noindex&browser-info=ln%3A1%3Agdpr%3A14%3Avf%3A1hc9dnhfark4nldxqmebc%3Ant%3A3%3Afp%3A15279%3Afu%3A3%3Aen%3Autf-8%3Ala%3Aen-GB%3Av%3A850%3Acn%3A1%3Adp%3A0%3Als%3A697196607162%3Ahid%3A1026044606%3Az%3A420%3Ai%3A20220803204115%3Aet%3A1659534075%3Ac%3A1%3Arn%3A46932111%3Arqn%3A4%3Au%3A1659534039613231954%3Aw%3A360x400%3As%3A412x915x24%3Ask%3A2.625%3Aifr%3A1%3Aeu%3A0%3Ans%3A1659534057535%3Awv%3A2%3Aco%3A0%3Aadb%3A2%3Arqnl%3A2%3Ast%3A1659536479%3At%3A&t=gdpr(14)rqnl(2)ti(2)entType=0&id=1497189779999&bytes=1284708-2682748|Referer=https://embedsb.com/
 #EXTINF:-1, Ben 10 SS1-01
 https://e-2.mzzcloud.life/_v8/6bb6fbd6a9d010cf7889a0563428f072100e764db4a60dd86a1ccf4108e23e016e53511b0713b244fca8a416c0c10d459d840a59e373c642c3880ca64015e5920e2b8181da917a3c1bab2a439794ada19af312118f62982964bcb76398e548ae86e4f37076a8145ee56aaee4da4efd04b6a37271539332c93d4eb98758a277fa/playlist.m3u8
 
